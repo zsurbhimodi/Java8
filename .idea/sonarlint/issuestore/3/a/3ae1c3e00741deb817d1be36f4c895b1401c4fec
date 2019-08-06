@@ -1,0 +1,6 @@
+
+Msquid:S1481"*Remove this unused "width" local variable.(øœÄÿÿÿÿÿ8™‹Ì®½-
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¤İÍãúÿÿÿÿ8¶ÊÏ®½-
+\squid:S1854"9Remove this useless assignment to local variable "width".(øœÄÿÿÿÿÿ8™‹Ì®½-
+Jsquid:S1602",Remove useless curly braces around statement(½òÚÚ8Ô€Ô®½-

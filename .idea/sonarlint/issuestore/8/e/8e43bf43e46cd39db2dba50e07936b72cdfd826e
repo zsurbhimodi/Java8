@@ -1,0 +1,7 @@
+
+|squid:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ô Ìÿúÿÿÿÿ8ôêù±½-
+qsquid:S16025"SRemove useless curly braces around statement and then remove useless return keyword(˜û¶ê8À¤–²½-
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ð£¦îùÿÿÿÿ8œì™²½-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(œ³‘¶8Ð˜¦²½-

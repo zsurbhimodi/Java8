@@ -1,0 +1,8 @@
+
+Jsquid:S1612",Replace this lambda with a method reference.(žØ­ø8Ìµ•¯½-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀýÿÿÿÿ8Ìµ•¯½-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ8°¡œ¯½-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(žØ­ø8Ìµ•¯½-
+Msquid:S1611"/Remove the parentheses around the "n" parameter(žØ­ø8Ìµ•¯½-
